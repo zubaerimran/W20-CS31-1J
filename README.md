@@ -1,6 +1,6 @@
 # W20-CS31-1J
 
-This is a repo with materials for Discussion 1G with TA Abdullah-Al-Zubaer Imran and LA Ryan Yang, for CS 31 with Professor Howard Stahl, Winter 2020.  
+This is a repo with materials for Discussion 1J with TA Abdullah-Al-Zubaer Imran and LA Ryan Yang, for CS 31 with Professor Howard Stahl, Winter 2020.  
 Official course site can be accessed at https://ccle.ucla.edu/course/view/20W-COMSCI31-1
 
 This repo will be updated every week with new materials for discussion.
