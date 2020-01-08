@@ -7,7 +7,7 @@ This repo will be updated every week with new materials for discussion.
 
 
 ## Notice/Updates
-01.08.20: First discussion session on 
+01.08.20: First discussion session at 4pm on Jan 10, 2020. See you all at BH 5280.
 
 
 ## Discussion Sessions
