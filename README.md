@@ -20,7 +20,8 @@ This repo will be updated every week with new materials for discussion.
 TA: Tuesdays 8:30-9:30 <br>
 & Thursdays 8:30-9:30 @BH 3256S
 
-LA: 
+LA: Tuesdays 8:30-9:30 <br>
+& Thursdays 8:30-9:30 @BH 3256S
 
 ## Contact Information
 
