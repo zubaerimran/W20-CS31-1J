@@ -21,6 +21,7 @@ TA: Tuesdays 8:30-9:30 <br>
 & Thursdays 8:30-9:30 @BH 3256S
 
 LA: Tuesdays 8:30-9:30 <br>
+& Thursdays 8:30-9:30 @BH 3256S
 @BH 3256S
 
 ## Contact Information
