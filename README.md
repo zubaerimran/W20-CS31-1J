@@ -14,6 +14,7 @@ This repo will be updated every week with new materials for discussion.
 
 ### <a href = "https://github.com/zubaerimran/W20-CS31-1J/blob/master/week1/winter20_cs31_w1.pdf">Week1 Discussion</a>
 ### <a href = "https://github.com/zubaerimran/W20-CS31-1J/blob/master/week2/winter20_cs31_w2.pdf">Week2 Discussion</a>
+### <a href = "https://github.com/zubaerimran/W20-CS31-1J/blob/master/week3/winter20_cs31_w3.pdf">Week3 Discussion</a>
 
 
 
