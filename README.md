@@ -19,6 +19,7 @@ This repo will be updated every week with new materials for discussion.
 ### <a href = "https://github.com/zubaerimran/W20-CS31-1J/blob/master/week2/winter20_cs31_w2.pdf">Week2: Strings & Control Flow</a>
 ### <a href = "https://github.com/zubaerimran/W20-CS31-1J/blob/master/week3/winter20_cs31_w3.pdf">Week3: Functions</a>
 ### <a href = "https://github.com/zubaerimran/W20-CS31-1J/blob/master/week4/winter20_cs31_w4.pdf">Week4: Arrays</a>
+### <a href = "">Week5: No Session!</a>
 ### <a href = "https://github.com/zubaerimran/W20-CS31-1J/blob/master/week6/winter20_cs31_w6.pdf">Week6 C-Strings, Structs, & Enumeration</a>
 ### <a href = "https://github.com/zubaerimran/W20-CS31-1J/blob/master/week7/winter20_cs31_w7.pdf">Week7: Classes</a>
 ### <a href = "https://github.com/zubaerimran/W20-CS31-1J/blob/master/week8/winter20_cs31_w8.pdf">Week8: Pointers & Memory Management</a>
