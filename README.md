@@ -7,6 +7,7 @@ This repo will be updated every week with new materials for discussion.
 
 
 ## Notice/Updates
+03.11.20: <b>Thursday's (03.12.20) In Person Office Hour Cancelled!</b> But TA will be available for immediately responding to your emails during the office hour.<br>
 03.05.20: <b>Final Review on Mar 13!!</b><br>
 03.05.20: Winter course evaluation is open now! Please complete your evaluation on CCLE before 8:00 AM Saturday, March 14.<br>
 01.25.20: No session for 1J on Feb 7. Please follow the instructions from Professor Howard.<br>
